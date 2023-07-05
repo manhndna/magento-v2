@@ -9,7 +9,7 @@
     <default>
         <payment>
             <quickpay_gateway>
-                <model>QuickPay\Gateway\Model\Payment</model>
+                <modttel>QuickPay\Gateway\Model\Payment</modttel>
                 <title>QuickPay Payment</title>
                 <active>1</active>
                 <testmode>0</testmode>
